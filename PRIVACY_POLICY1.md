@@ -11,7 +11,7 @@ We collect several different types of information for various purposes to provid
 *   **User-Provided Data:** The application stores exam names, dates, preparation progress, and topics. This data is stored **locally on your device** using an internal database and is not uploaded to our servers.
 *   **Device Permissions:** 
     *   **Notifications:** We request permission to send notifications to remind you of upcoming exams.
-*   **Log and Usage Data:** We use third-party services (Firebase Crashlytics) to collect information that your device sends whenever you use our Service. This may include your device model, operating system version, and crash logs to help us improve app stability.
+*   **Log and Data Usage:** We use third-party services (Firebase Crashlytics) to collect information that your device sends whenever you use our Service. This may include your device model, operating system version, and crash logs to help us improve app stability.
 
 ## 2. Third-Party Services
 The Service uses third-party services that may collect information used to identify you:
